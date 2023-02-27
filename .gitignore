@@ -1,0 +1,4 @@
+node_modules 
+# That will take all the files that have log extenssion 
+*.log
+app-info.md
